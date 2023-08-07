@@ -1,0 +1,17 @@
+.list-style-one {
+    list-style-type: circle;
+    list-style-position: outside;
+}
+
+.list-style-two {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+.list-style-three {
+    list-style-type: decimal
+}
+
+.list-style-four {
+    list-style-type: lower-alpha;
+}
